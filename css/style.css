@@ -213,5 +213,7 @@ footer h2{
 .match span{
     margin-right: 0;
 }
-.match img{width:220px}
+.match img{
+    width:220px;
+}
 /* match page css start */
