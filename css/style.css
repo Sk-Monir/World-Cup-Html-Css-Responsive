@@ -351,7 +351,6 @@ footer h2{
         width:auto;
         height: auto;
     }
-    
     /*blogs css  */
     #blog_sec .row{
         display:flex;
@@ -373,12 +372,6 @@ footer h2{
         width: 100%;
         grid-template-columns: repeat(2,1fr);
     }
-    .blog{
-       text-align: center;
-    }
-    .blog_info{
-        text-align:left
-    }
     .blog img{
         width:100%;
     }
@@ -387,7 +380,6 @@ footer h2{
     }
     footer .footer_link a{
         display: inline-block;
-
     }
     .more a{
         display: block;
