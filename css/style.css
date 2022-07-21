@@ -201,3 +201,16 @@ footer h2{
     background-color: var(--btn-active);
 }
 /* foonter section start */
+/* match page css start */
+.match{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 40px 10px;
+}
+.match span{
+    margin-right: 0;
+}
+.match img{width:220px}
+/* match page css start */
