@@ -194,6 +194,9 @@ footer h2{
 .social_icon{
     padding: 30px;
 }
+.social_icon a{
+    color: var(--text-color-1);
+}
 .social_icon i{
     padding: 10px;
     border-radius: 100%;
